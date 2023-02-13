@@ -5,7 +5,9 @@ In this project, I applied practical Exploratory Data Analysis (EDA) techniques 
 such as Pandas and Numpy. Also, Produced data visualizations using Seaborn and Matplotlib.
 
 # Dataset used
-  Data link : 
+  Data link : Link to data source: https://www.kaggle.com/aungpyaeap/supermarket-sales 
+
+
 
 # Project Objectives
 
