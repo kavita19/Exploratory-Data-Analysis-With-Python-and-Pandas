@@ -4,7 +4,7 @@
 
 Welcome to Exploratory Data Analysis With Python and Pandas.
 
-#Course Objectives
+# Course Objectives
 
 In this course, we are going to focus on three learning objectives:
 
